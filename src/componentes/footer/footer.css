@@ -1,0 +1,12 @@
+.footer {
+    background-color: #0056b3; /* Fondo azul oscuro */
+    color: #fff; /* Texto blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto al centro */
+}
+
+.footer-content {
+    max-width: 1200px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Margen automático para centrar horizontalmente */
+}
+

@@ -1,0 +1,44 @@
+/* Estilos para la tabla */
+table {
+  width: 100%;
+  border-collapse: separate; /* Utilizamos border-collapse: separate para tener bordes redondeados */
+  border-spacing: 0; /* Eliminamos el espaciado entre las celdas */
+  margin-top: 30px; /* Aumentamos el margen superior */
+  border-radius: 10px; /* Añadimos un radio de borde para hacerla más redondeada */
+  overflow: hidden; /* Ocultamos cualquier contenido que sobresalga de la tabla */
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px; /* Aumentamos el relleno de las celdas para dar más espacio */
+  text-align: center; /* alineamos el texto al centro */
+}
+
+th {
+  background-color: #0056b3;
+  color: #fff;
+}
+
+/* Estilos para el título "Lista de Usuarios" */
+h1 {
+  text-align: center; /* Centramos el texto horizontalmente */
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
+
+/* Estilos para el botón de eliminar */
+button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  border-radius: 5px; /* Añadimos un radio de borde al botón */
+}
+
+button:hover {
+  background-color: #c82333;
+}
+
+
