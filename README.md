@@ -18,7 +18,7 @@ Desde tu editor abre la carpeta clonada para poder visualizar los ficheros y abr
 
 3. **Desde la terminal accede al directorio del proyecto:**
 
-``` cd Ejercicio1 ```
+``` cd directorio_principal ```
 
 
 4. **Instala las dependencias:**
